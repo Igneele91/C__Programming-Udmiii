@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "anotherbib.h": "c",
+        "functionsbib.h": "c",
+        "xstring": "c",
+        "system_error": "c",
+        "xlocale": "c",
+        "xutility": "c",
+        "type_traits": "c",
+        "xtr1common": "c",
+        "string.h": "c",
+        "csvreader.h": "c",
+        "records.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
