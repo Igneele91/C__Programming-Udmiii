@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 22;
+    int b = 42;
+    int comp;
+
+    // a greater than b
+    comp = (a > b);
+    printf("Comp: %d\n", comp);
+
+    // a less than b
+    comp = (a < b);
+    printf("Comp: %d\n", comp);
+
+    // a equal to b    2 gleiheits zeichen ist ein vergleich ein = ist eine zuweisung 
+    comp = (a == b);
+    printf("Comp: %d\n", comp);
+
+    // a less or equal than b
+    comp = (a <= b);
+    printf("Comp: %d\n", comp);
+
+    // a greater or equal than b
+    comp = (a >= b);
+    printf("Comp: %d\n", comp);
+
+    // a not equal to b das ist ungleichheits fall
+    comp = (a != b);
+    printf("Comp: %d\n", comp);
+
+    return 0;
+}
+
+
+/*
+
+    int a = 22;
+    int b = 42;
+    int comp;
+
+
+
+
+
+
+*/
